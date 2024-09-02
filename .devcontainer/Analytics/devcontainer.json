@@ -18,7 +18,7 @@
 			// "configureJupyterlabAllowOrigin": "",
       "version": "3.12"
     },
-    "ghcr.io/devcontainers/features/node:1.5.0": {
+    "ghcr.io/devcontainers/features/node:1.6.0": {
       "nodeGypDependencies": true,
       "version": "20",
       "nvmVersion": "latest"
